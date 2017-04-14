@@ -1,7 +1,7 @@
 {
   "name": "spritesheet-templates-x3",
   "description": "Convert spritesheet data into CSS or CSS pre-processor data, support @3x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/aslinwang/spritesheet-templates-x3",
   "repository": {
     "type": "git",
